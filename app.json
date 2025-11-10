@@ -21,12 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.zonesmobile",
-      "config": {
-        "googleMaps": {
-          "apiKey": "AIzaSyC0QZstR1C8Xod6kq7h5HJK0Wi5nzCPfZk"
-        }
-      }
+      "package": "com.anonymous.zonesmobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
