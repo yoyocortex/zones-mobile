@@ -283,7 +283,7 @@ npx expo start --android
 
 ---
 
-## 🔧 Build za Produkciju
+## Build za Produkciju
 
 ### Expo EAS Build (Preporučeno)
 
